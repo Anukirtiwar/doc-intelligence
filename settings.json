@@ -1,0 +1,12 @@
+{
+  "typescript.validate.enable": true,
+  "javascript.validate.enable": true,
+  "typescript.preferences.includePackageJsonAutoImports": "on",
+  "typescript.suggest.autoImports": true,
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+}
